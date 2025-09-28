@@ -1,12 +1,12 @@
-# Blade Ball Auto Parry ⚔️
+# ZeroBlade 0️⃣⚔️
 
-A simple script that adds **Auto Parry** functionality to Roblox Blade Ball.  
-Stay sharp without having to time every move yourself!
+**ZeroBlade** is a minimal yet deadly auto parry script for Roblox Blade Ball.  
+With zero delay and absolute precision, you won’t miss a beat.
 
 ---
 
 ## 🚀 Features
-- ✅ Auto Parry
+- ✅ Auto Parry (zero-lag optimized)
 
 ---
 
@@ -15,9 +15,9 @@ Stay sharp without having to time every move yourself!
 2. Open your Roblox executor (e.g., Synapse X, Script-Ware, Krnl).
 3. Paste the script into the executor.
 4. Execute while in **Blade Ball**.
-5. Auto Parry will handle the timing for you.
+5. ZeroBlade will take care of the parries.
 
 ---
 
 ## ⭐ Credits
-- Script Developer: GameHACKER
+- Script Developer: **GameHACKER**
